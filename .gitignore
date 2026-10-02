@@ -1,0 +1,2 @@
+# Private local records and legacy checkouts never enter the public website repository.
+/.local/
